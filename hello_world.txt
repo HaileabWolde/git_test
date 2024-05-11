@@ -1,1 +1,2 @@
 Hello Odin Project
+THis is my first Odin Project and I intend to finsh it.
